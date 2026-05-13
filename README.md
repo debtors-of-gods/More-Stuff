@@ -1,3 +1,4 @@
 # waow
-<wip for now>
+<html></html>
+<head></head>
 <less active during the summer for now>
