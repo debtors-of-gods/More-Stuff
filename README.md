@@ -1,6 +1,8 @@
 # waow
 <html>
   <body>
-    <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
+    <p>less active during the summer sorry :(</p>
+    <p>fictkin (not of ivor/pfp, fine with doubles)</p>
+    <p>i love both fem and masc adjectives/titles (handsome, pretty, miss, mister, etc)</p>
   </body>
 </html>
